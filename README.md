@@ -34,7 +34,18 @@
 - `Tailwind` or minimal CSS for clean UI
 
 ---
+🛡 LICENSE SUMMARY
+This module is protected under a Custom NeoLegacy License.
+Non-commercial use only.
+No rebranding, reselling, or SaaS cloning permitted.
+See the full LICENSE file for legal terms and ethical usage.
 
+🔗 Social & Community
+<p align="center"> <a href="https://x.com/neoshade2025"> <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="https://youtube.com/@neoshade"> <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"> </a> <a href="https://social.neo-shade.com"> <img src="https://img.shields.io/badge/NeoShade%20Social-Join-blueviolet?style=for-the-badge&logo=discourse&logoColor=white"> </a> </p>
+👤 Author
+JonnyG (aka JokerJonny)
+AI Dev • Cyber Defense • Digital Legacy Architect
+github.com/Jonnygeo
 ## 🚀 Setup
 
 ```bash
